@@ -122,7 +122,7 @@ const AutoComplete = ({addplace,place}) => {
    <div style={{ height: '100vh', width: '100%' }}>
       <GoogleMapReact
       yesIWantToUseGoogleMapApiInternals
-        bootstrapURLKeys={{ key: "AIzaSyBu8yS3GQMRQJbq4DviA3l0u1-nUybRh7M" }}
+        bootstrapURLKeys={{ key: "" }}
         // defaultCenter={defaultProps.center}
         center={defaultProps.center}
 
